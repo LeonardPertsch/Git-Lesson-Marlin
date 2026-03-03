@@ -1,5 +1,3 @@
-print("hello sssworld")
-
-this = "hello"
-
-print (this)
+print("hello world")
+for i in range(10):
+    print(i)
