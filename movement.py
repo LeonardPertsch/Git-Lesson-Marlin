@@ -1,1 +1,5 @@
-print("hello world")
+print("hello sssworld")
+
+this = "hello"
+
+print (this)
